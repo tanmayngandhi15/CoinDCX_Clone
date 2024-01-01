@@ -3,8 +3,7 @@ import UIKit
 
 class ViewController: UIViewController, UITableViewDataSource, UITableViewDelegate, UISearchBarDelegate
 {
-   
-    
+
     @IBOutlet var Vw_menu: UIView!
     @IBOutlet var searchBar: UISearchBar!
     @IBOutlet var Vw_balance: UIView!
